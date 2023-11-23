@@ -1,0 +1,19 @@
+#requiements.txt
+#pip install all this libraries
+ctypes
+time
+re
+webbrowser
+winsound
+SpeechRecognition
+pyttsx3
+pywhatkit
+datetime
+wikipedia
+os
+subprocess
+opencv-python
+random
+pyautogui
+smtplib
+requests
